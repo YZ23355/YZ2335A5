@@ -1,4 +1,7 @@
-## ⚡ **现在正在讨论 | What’s Hot**
+## 📢 **关注家吧**
+<div align="center">
+  <img src="https://你的二维码图片链接.com/qrcode.png" alt="关注家吧" width="150">
+</div>## ⚡ **现在正在讨论 | What’s Hot**
 🔥 [家吧 18 周年，我们该做点什么？](https://github.com/你的GitHub用户名/你的仓库/issues/1)  
 🎸 [如何优化 live 录音？](https://github.com/你的GitHub用户名/你的仓库/issues/2)  
 👊 [Punk vs Metal vs Electronic？你的声音是什么？](https://github.com/你的GitHub用户名/你的仓库/issues/3)# ✖️ 家吧 | JIA BAR 
